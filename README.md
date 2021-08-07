@@ -28,3 +28,9 @@ and ready to use.
 - A command line utility “Parallel” (Used to orchestrate bots in stress test)
 - Eclipse mosquitto client (Used to communicate to brokers)
 
+
+#### Usage
+
+` ./run.sh  `
+
+And just answer the asked questions.
