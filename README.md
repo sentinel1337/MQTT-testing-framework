@@ -31,6 +31,6 @@ and ready to use.
 
 #### Usage
 
-` ./run.sh  `
+` $ ./run.sh  `
 
-And just answer the asked questions.
+and just answer the asked questions.
